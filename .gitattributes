@@ -1,0 +1,2 @@
+super.bin filter=lfs diff=lfs merge=lfs -text
+md1img.bin filter=lfs diff=lfs merge=lfs -text
